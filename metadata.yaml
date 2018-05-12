@@ -1,0 +1,32 @@
+_repo: Hair-Breadth-Escapes--13-Perilous-incidents-in-the-lives-of-sailors-and-travelers-in-Japan-Cu__29829
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Arthur, T. S. (Timothy Shay)
+    aliases:
+    - Arthur, Timothy Shay
+    - Uncle Herbert
+    - Herbert, Uncle
+    birthdate: 1809
+    deathdate: 1885
+    gutenberg_agent_id: '1513'
+    url: http://www.gutenberg.org/2009/agents/1513
+    wikipedia: http://en.wikipedia.org/wiki/Timothy_Shay_Arthur
+description: ''
+gutenberg_issued: '2009-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29829'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Adventure stories'
+title: "Hair Breadth Escapes\r\nPerilous incidents in the lives of sailors and travelers\
+  \ in Japan, Cuba, East Indies, etc., etc."
+url: http://www.gutenberg.org/ebooks/29829
